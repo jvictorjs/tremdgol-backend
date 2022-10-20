@@ -2,7 +2,7 @@
 
 # tremdgol-backend
 
-I created this API to provide soccer matches statistics to others applications. Currently these three apps are consuming data from this project:
+REST API that provides soccer matches statistics to others applications. Currently these three apps are consuming data from this project:
 
 - [Tremdgol.com (Vue)](https://github.com/jvictorjs/tremdgol)
 - [Tremdgol Android App (React Native)](https://github.com/jvictorjs/tremdgol-app)
